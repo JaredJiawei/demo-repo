@@ -10,3 +10,4 @@ Some description !
 ## Local Development
 
 1. Open index.html in yuour browser
+2. New change this need to pull down into local
